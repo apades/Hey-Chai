@@ -1,0 +1,12 @@
+.idea
+dist
+dist_prod
+dist_homepage
+dist_pay_ios
+node_modules
+coverage
+debug.log
+.DS_Store
+.env
+*-error.log
+.vscode
